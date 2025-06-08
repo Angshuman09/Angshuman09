@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Angshuman09
+- 👋 Hi, I’m Angshuman
 - 👀 I’m interested in Webdev
 - 🌱 I’m currently learning Backend
 <!---
