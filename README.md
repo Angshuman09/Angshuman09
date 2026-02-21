@@ -6,11 +6,13 @@ i love computer science and exploring what can be built with it.
 
 ---
 
-##  tech stack
+##  Tech Stack
 
-**Frontend** — JavaScript, TypeScript, React, Next.js, Tailwind CSS
+**Languages** - Java, Javascript, C, C++, Python, Rust
 
-**Backend** — Node.js, Express, Convex, Websocket
+**Frontend** — React, Next.js, Tailwind CSS, Tanstack Query, zustand, Redux
+
+**Backend** — Node.js, Express, Fastapi, Redis, Websocket, tRPC
 
 **Databases & ORMs** — PostgreSQL, MongoDB, Prisma, Mongoose
 
