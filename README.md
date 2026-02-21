@@ -1,4 +1,4 @@
-# Yoo, I’m Angshu 👋
+# Yoo, I’m Angshu 🫶🏼
 
 > building things while building myself
 
