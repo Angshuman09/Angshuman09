@@ -2,24 +2,9 @@
 
 > building things while building myself
 
-i love computer science and exploring what can be built with it.
+I love computer science and exploring what can be built with it.
 
 ---
-
-##  Tech Stack
-
-**Languages** - Java, Javascript, C, C++, Python, Rust
-
-**Frontend** — React, Next.js, Tailwind CSS, Tanstack Query, zustand, Redux
-
-**Backend** — Node.js, Express, Fastapi, Redis, Websocket, tRPC
-
-**Databases & ORMs** — PostgreSQL, MongoDB, Prisma, Mongoose
-
-**DevOps** — Linux, Docker
-
----
-
 
 ##  Streak
 
@@ -30,6 +15,6 @@ i love computer science and exploring what can be built with it.
 ---
 
 <p align="center">
-  <i>The only way to become successful is to embrace the
-discomfort of hard work. ~ David Goggins</i>
+  <i>“Art is never finished, only abandoned.”
+~ Leonardo da Vinci</i>
 </p>
