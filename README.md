@@ -1,8 +1,6 @@
 # Yoo, I’m Angshu 🫶🏼
 
-> building things while building myself
-
-I love computer science and exploring what can be built with it.
+I get obsessed with things I don’t know and love figuring out how they work.
 
 ---
 
