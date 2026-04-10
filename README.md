@@ -1,6 +1,6 @@
 # Yoo, I’m Angshu 🫶🏼
 
-I get obsessed with things I don’t know and love figuring out how they work.
+I get obsessed with things idk and love understanding how they work
 
 ---
 
