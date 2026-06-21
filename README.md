@@ -1,8 +1,6 @@
-# Yoo, I’m Angshu 🫶🏼
+[![header](./git-banner.png)]()
 
-I get obsessed with things idk and love understanding how they work
-
----
+distributed systems · art 
 
 <p align="center">
   <i>Art is never finished, only abandoned.
