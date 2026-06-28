@@ -1,4 +1,4 @@
-[![header](./header.png)]()
+[![header](./githubheader.jpg)]()
 
 distributed systems · art 
 
